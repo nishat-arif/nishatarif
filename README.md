@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishat-arif-na786786)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nishat-arif) 
+
 [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=flat&logo=adobe-acrobat-reader)](https://github.com/nishat-arif/nishatarif/blob/main/Nishat_Arif_CV.pdf)
 
 
