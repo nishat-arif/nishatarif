@@ -2,7 +2,7 @@
 🚀 Senior UI / Full Stack Developer | Cloud | AI | AWS Certified  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishat-arif-na786786)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=google-chrome)](https://atdevlink.com)  
+[![Github](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=google-chrome)](https://github.com/nishat-arif)  
 📫 er.nishatarif1912@gmail.com | ☎️ (551) 260-7871  
 
 ---
