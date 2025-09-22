@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishat-arif-na786786)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nishat-arif) 
+
 📫 er.nishatarif1912@gmail.com | ☎️ (551) 260-7871  
 
 ---
@@ -49,7 +50,7 @@ Full-stack networking platform for developers.
 
 ---
 
-### 🔗 [NetGPT](https://netgpt-b023c.web.app/)  
+### 🔗 [NetGPT](https://netgpt-663c9.web.app/)  
 AI-powered movie recommendation app.  
 - Built with **React + GPT APIs**  
 - Conversational recommendations for personalization  
@@ -68,7 +69,8 @@ Full-featured e-commerce app (Angular).
 ## 🎯 Career Highlights
 - 🚀 Improved enterprise app performance by **35%** (lazy loading, code splitting).  
 - 🔧 Reduced environment setup time from **2 days → 3 hours** with CloudFormation.  
-- ♿ Delivered **WCAG 2.1 compliant UIs** for thousands of users.  
+- ♿ Delivered **WCAG 2.1 compliant UIs** for thousands of users.
+- 🔧 Improved load times and responsiveness by 20%.   
 - 👨‍🏫 Mentored developers and led code reviews for consistent delivery quality.  
 
 ---
