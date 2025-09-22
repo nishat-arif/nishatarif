@@ -49,7 +49,7 @@ Full-stack networking platform for developers.
 
 ---
 
-### 🔗 [NetGPT](https://netgpt-f9def.web.app)  
+### 🔗 [NetGPT](https://netgpt-b023c.web.app/)  
 AI-powered movie recommendation app.  
 - Built with **React + GPT APIs**  
 - Conversational recommendations for personalization  
