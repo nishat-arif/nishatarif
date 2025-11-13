@@ -20,7 +20,7 @@ Building fast, scalable, and human-centered digital experiences using modern Jav
 
 ---
 
-# 🌟 Career Highlights  
+## 🌟 Career Highlights  
 - Delivered **20% faster feature execution** + reduced re-renders by **15%** through architectural refactoring  
 - Improved **Core Web Vitals by 30%** using lazy loading, preloading, code-splitting, and asset optimization  
 - Ensured **1M+ global users accessibility** with WCAG 2.1, ARIA roles, semantic markup, and keyboard navigation  
@@ -73,6 +73,7 @@ Building fast, scalable, and human-centered digital experiences using modern Jav
 ---
 
 ## 📌 Featured Projects  
+
 ### **DevLink – AI-Powered Networking Platform**  
 **Full-stack MERN + AWS platform** enabling developers to connect, chat in real time, and generate AI-based profile insights.  
 **Tech:** React, Node.js, MongoDB, WebSockets, AWS, Tailwind, GPT APIs  
